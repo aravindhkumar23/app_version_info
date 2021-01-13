@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Initial release.
 
-* TODO: Describe initial release.
+* A new Flutter package to create a widget that shows app version information.
