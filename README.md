@@ -20,6 +20,10 @@ and use it as normal widget
  customize text style (optional if not provided default style will be used)
 
 
+## Sample screen
+
+![screenshot](/screenshot/info.png "screenshot")
+
 ## Getting Started
 
 This project is a starting point for a Dart
